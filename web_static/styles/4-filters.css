@@ -8,7 +8,7 @@
 .container .filters button {
  font-size: 18px;
  background-color: #FF5A5F;
-color: #FFFFFF;
+ color: #FFFFFF;
  height: 48px;
  width: 20%;
  border: none;
@@ -16,7 +16,8 @@ color: #FFFFFF;
  vertical-align: center;
  margin-right: 30px;
  margin-left: auto;
+ margin-top: 11px;
 }
 .container .filters  button:hover {
-opacity: 90%;
+ opacity: 90%;
 }
