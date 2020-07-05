@@ -4,6 +4,7 @@ div.container {
   margin: auto;
   margin-top: 30px;
   margin-bottom: 30px;
+  min-height: calc(100 vh - 192px);
 }
 section.filters {
   background-color: white;
