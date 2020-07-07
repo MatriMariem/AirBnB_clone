@@ -28,7 +28,7 @@ section.filters {
 }
 .filters button:hover {opacity: 0.9}
 
-.amenities {
+.filters .amenities {
   height: 100%;
   width: 25%;
 }
@@ -37,13 +37,13 @@ section.filters {
   width: 25%;
   border-right: solid 1px #DDDDDD;
 }
-div h3 {
+.filters h3 {
   font-weight: 600;
   margin-bottom: 0px;
   margin-left: 50px;
 }
 
-div h4 {
+.filters h4 {
   font-weight: 400;
   font-size: 14px;
   margin-top: 5px;
